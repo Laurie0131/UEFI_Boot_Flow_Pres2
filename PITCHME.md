@@ -651,7 +651,7 @@ Note:
 <br>
 <br>
 @ul[no-bullet]
-@box[bg-purple text-white rounded](Intel FSP can encapsulate IP protected initialization code PRODUCED by Intel business units)
+- @box[bg-purple text-white rounded](Intel FSP can encapsulate IP protected initialization code PRODUCED by Intel business units)
 @ulend
 
 Note:
