@@ -737,10 +737,10 @@ Note:
         <li><span style="font-size:0.8em">Stable Tag Releases- cycle of releasing stable versions of  EDK II Firmware </span> </li>
         <li><span style="font-size:0.8em">Adding UEFI Spec updates and new key features  and bug fixes</span> </li>
         <li><span style="font-size:0.8em">Three phases of development</span> </li>
-        <ul style="list-style-type:disc; line-height:0.65;">
-           <li><span style="font-size:0.65em">Development phase</span> </li>
-           <li><span style="font-size:0.65em">Soft Feature Freeze</span> </li>
-           <li><span style="font-size:0.65em">Hard Feature Freeze</span> </li>
+        <ul style="list-style-type:none; line-height:0.65;">
+           <li><span style="font-size:0.65em">- Development phase</span> </li>
+           <li><span style="font-size:0.65em">- Soft Feature Freeze</span> </li>
+           <li><span style="font-size:0.65em">- Hard Feature Freeze</span> </li>
         </ul>
      </ul>
 </div>
@@ -750,7 +750,9 @@ Note:
 
 @snap[north-east span-30 ]
 <br>
+<a href"https://tianocore.org">
 ![Logo](/assets/images/TianocoreLogo.png )
+</a>
 @snapend
 
 @snap[north-east span-30 ]
@@ -764,7 +766,7 @@ Tag: edk2-stable201903 Features:<br>
 &nbsp;&nbsp;<a href="https://github.com/tianocore/edk2/releases">	edk2 releases Stable tag</a><br>
 More Information on UDK releases:<br>
 &nbsp;&nbsp; <a href="https://github.com/tianocore/tianocore.github.io/wiki/UDK2018">	TianoCore Wiki</a>
-<br>
+<br><br>
 </span></p>
 @snapend
 
