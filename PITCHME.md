@@ -728,12 +728,16 @@ Note:
 
 ---  
 @title[EDK II Community Development]   
-<p align="center"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source Community Development</b>)</span></p>
+<p align="center"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source Community </b>)</span></p>
 <div class="left">
      <ul style="list-style-type:disc; line-height:0.7;">
-        <li><span style="font-size:0.7em"></span> </li>
-        <ul style="list-style-type:disc; line-height:0.7;">
-          <li><span style="font-size:0.7em"></span></li>
+        <li><span style="font-size:0.7em">Stable Tag Releases- cycle of releasing stable versions of  EDK II Firmware </span> </li>
+        <li><span style="font-size:0.7em">Adding UEFI Spec updates and new key features  and bug fixes</span> </li>
+        <li><span style="font-size:0.7em">Three phases of development</span> </li>
+        <ul style="list-style-type:disc; line-height:0.6;">
+           <li><span style="font-size:0.6em">Development phase</span> </li>
+           <li><span style="font-size:0.6em">Soft Feature Freeze</span> </li>
+           <li><span style="font-size:0.6em">Hard Feature Freeze</span> </li>
         </ul>
      </ul>
 </div>
@@ -746,13 +750,13 @@ Note:
 ![Logo](/assets/images/TianocoreLogo.png )
 @snapend
 
-@snap[north-east span-35 ]
+@snap[north-east span-30 ]
 <br><br><br><br>
 ![Community](/assets/images/Community.png )
 @snapend
 
 @snap[south-east span-50 ]
-<p style="line-height:30%" align="left"><span style="font-size:0.7em">
+<p style="line-height:70%" align="left"><span style="font-size:0.7em">
 Tag: edk2-stable201903 Features:<br>
 &nbsp;&nbsp;<a href="https://github.com/tianocore/edk2/releases">	edk2 releases Stable tag</a>
 More Information on UDK releases:<br>
