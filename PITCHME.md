@@ -729,19 +729,22 @@ Note:
 ---  
 @title[EDK II Community Development]   
 <p align="center"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source Community </b>)</span></p>
-<div class="left">
-     <ul style="list-style-type:disc; line-height:0.7;">
-        <li><span style="font-size:0.7em">Stable Tag Releases- cycle of releasing stable versions of  EDK II Firmware </span> </li>
-        <li><span style="font-size:0.7em">Adding UEFI Spec updates and new key features  and bug fixes</span> </li>
-        <li><span style="font-size:0.7em">Three phases of development</span> </li>
-        <ul style="list-style-type:disc; line-height:0.6;">
-           <li><span style="font-size:0.6em">Development phase</span> </li>
-           <li><span style="font-size:0.6em">Soft Feature Freeze</span> </li>
-           <li><span style="font-size:0.6em">Hard Feature Freeze</span> </li>
+<br>
+<br>
+
+<div class="left1">
+     <ul style="list-style-type:disc; line-height:0.8;">
+        <li><span style="font-size:0.8em">Stable Tag Releases- cycle of releasing stable versions of  EDK II Firmware </span> </li>
+        <li><span style="font-size:0.8em">Adding UEFI Spec updates and new key features  and bug fixes</span> </li>
+        <li><span style="font-size:0.8em">Three phases of development</span> </li>
+        <ul style="list-style-type:disc; line-height:0.65;">
+           <li><span style="font-size:0.65em">Development phase</span> </li>
+           <li><span style="font-size:0.65em">Soft Feature Freeze</span> </li>
+           <li><span style="font-size:0.65em">Hard Feature Freeze</span> </li>
         </ul>
      </ul>
 </div>
-<div class="right">
+<div class="right1">
 <span style="font-size:0.7em">&nbsp;</span>
 </div>
 
@@ -755,10 +758,10 @@ Note:
 ![Community](/assets/images/Community.png )
 @snapend
 
-@snap[south-east span-50 ]
+@snap[south-east span-45 ]
 <p style="line-height:70%" align="left"><span style="font-size:0.7em">
 Tag: edk2-stable201903 Features:<br>
-&nbsp;&nbsp;<a href="https://github.com/tianocore/edk2/releases">	edk2 releases Stable tag</a>
+&nbsp;&nbsp;<a href="https://github.com/tianocore/edk2/releases">	edk2 releases Stable tag</a><br>
 More Information on UDK releases:<br>
 &nbsp;&nbsp; <a href="https://github.com/tianocore/tianocore.github.io/wiki/UDK2018">	TianoCore Wiki</a>
 </span></p>
