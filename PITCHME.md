@@ -750,7 +750,7 @@ Note:
 
 @snap[north-east span-30 ]
 <br>
-<a href"https://tianocore.org">
+<a href="https://tianocore.org">
 ![Logo](/assets/images/TianocoreLogo.png )
 </a>
 @snapend
