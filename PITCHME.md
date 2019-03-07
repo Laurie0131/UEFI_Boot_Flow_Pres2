@@ -728,7 +728,7 @@ Note:
 
 ---  
 @title[EDK II Community Development]   
-<p align="center"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source  </b>)</span></p>
+<p align="center"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source &nbsp;&nbsp;&nbsp; </b>)</span></p>
 <br>
 
 <span style="font-size:01.0em">@color[#e49436](Community Development)</span>
@@ -750,9 +750,7 @@ Note:
 
 @snap[north-east span-30 ]
 <br>
-<a href="https://www.tianocore.org">
 ![Logo](/assets/images/TianocoreLogo.png )
-</a>
 @snapend
 
 @snap[north-east span-30 ]
