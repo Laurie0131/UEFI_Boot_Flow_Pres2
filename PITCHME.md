@@ -728,10 +728,10 @@ Note:
 
 ---  
 @title[EDK II Community Development]   
-<p align="right"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source  </b>)</span></p>
+<p align="center"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source  </b>)</span></p>
 <br>
 
-<span style="font-size:01.1em">@color[#A8ff60](Community Development)</span>
+<span style="font-size:01.0em">@color[#e49436](Community Development)</span>
 <div class="left1">
      <ul style="list-style-type:disc; line-height:0.8;">
         <li><span style="font-size:0.8em">Stable Tag Releases- cycle of releasing stable versions of  EDK II Firmware </span> </li>
@@ -748,13 +748,13 @@ Note:
 <span style="font-size:0.7em">&nbsp;</span>
 </div>
 
-@snap[north-east span-25 ]
-<br><br>
+@snap[north-east span-30 ]
+<br>
 ![Logo](/assets/images/TianocoreLogo.png )
 @snapend
 
 @snap[north-east span-30 ]
-<br><br><br><br>
+<br><br><br>
 ![Community](/assets/images/Community.png )
 @snapend
 
@@ -764,6 +764,7 @@ Tag: edk2-stable201903 Features:<br>
 &nbsp;&nbsp;<a href="https://github.com/tianocore/edk2/releases">	edk2 releases Stable tag</a><br>
 More Information on UDK releases:<br>
 &nbsp;&nbsp; <a href="https://github.com/tianocore/tianocore.github.io/wiki/UDK2018">	TianoCore Wiki</a>
+<br>
 </span></p>
 @snapend
 
