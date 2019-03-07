@@ -703,9 +703,9 @@ Note:
 <p align="center"><span style="color:#e49436; font-size: 1.0em"> UDK2018: Key Features - Q2 2018</span> </p>
 <p align="Left"><span style="color:#e49436; font-size:0.8em"> UEFI Development Kit (UDK) releases are stable, validated snapshots of EDK II  </span> </p>
 <div class="left">
-     <ul>
+     <ul style="list-style-type:disc; line-height:0.8;">
         <li><span style="font-size:0.7em">Industry Standards & Public Specifications</span> </li>
-        <ul>
+        <ul style="list-style-type:disc; line-height:0.8;">
           <li><span style="font-size:0.7em">UEFI 2.7</span></li>
           <li><span style="font-size:0.7em">UEFI PI 1.6</span></li>
           <li><span style="font-size:0.7em">ACPI 6.2</span></li>
@@ -716,7 +716,7 @@ Note:
     </ul>
 </div>
 <div class="right">
-    <ul>
+    <ul style="list-style-type:disc; line-height:0.8;">
         <li><span style="font-size:0.7em">Compilers / Tools</span></li>
         <li><span style="font-size:0.7em">Microsoft Visual Studio 2017 tool chain</span></li>
         <li><span style="font-size:0.7em">Hash-based incremental build</span></li>
@@ -728,10 +728,10 @@ Note:
 
 ---  
 @title[EDK II Community Development]   
-<p align="center"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source Community </b>)</span></p>
-<br>
+<p align="right"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source  </b>)</span></p>
 <br>
 
+<span style="font-size:01.1em">@color[#A8ff60](Community Development)</span>
 <div class="left1">
      <ul style="list-style-type:disc; line-height:0.8;">
         <li><span style="font-size:0.8em">Stable Tag Releases- cycle of releasing stable versions of  EDK II Firmware </span> </li>
