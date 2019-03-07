@@ -666,7 +666,7 @@ Talking point – anyone would could be producer.  IBV could.  Just worry about 
 
 
 
----?image=/assets/images/slides/Slide32.JPG
+---?image=/assets/images/slides/Slide37_1.JPG
 <!-- .slide: data-transition="none" -->
 
 @title[UEFI Spec pic]    
@@ -695,12 +695,7 @@ UEFI Forum Education Link </a></span></p>
 
 Note:
 
----
-@title[UEFI & EDK II Timeline]    
-<p align="center"<span style="color:white; font-size:0.7em"> UEFI Specification & EDK II Reference Implementation Timeline  </span></p>
-<p align="center"<span style="color:white; font-size:0.4em"> <a href="http://www.uefi.org/">UEFI Specification</a> -top &nbsp;&nbsp;&nbsp;&nbsp; & &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.tiancore.org/">EDK II Open Source</a> -bottom </span></p>
 
-![Timeline](/assets/images/slides/bg30.jpg) 
 
 ---  
 @title[UDK2018 Key Features]   
@@ -730,6 +725,53 @@ Note:
 	<a href="https://github.com/tianocore/tianocore.github.io/wiki/UDK2018#edk-ii-specification-for-udk2018">TianoCore Wiki UDK2018 </a></span></li>
     </ul>
 </div>
+
+---  
+@title[EDK II Community Development]   
+<p align="center"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source Community Development</b>)</span></p>
+<div class="left">
+     <ul style="list-style-type:disc; line-height:0.7;">
+        <li><span style="font-size:0.7em"></span> </li>
+        <ul style="list-style-type:disc; line-height:0.7;">
+          <li><span style="font-size:0.7em"></span></li>
+        </ul>
+     </ul>
+</div>
+<div class="right">
+<span style="font-size:0.7em">&nbsp;</span>
+</div>
+
+@snap[north-east span-25 ]
+<br><br>
+![Logo](/assets/images/TianocoreLogo.png )
+@snapend
+
+@snap[north-east span-35 ]
+<br><br><br><br>
+![Community](/assets/images/Community.png )
+@snapend
+
+@snap[south-east span-50 ]
+<p style="line-height:30%" align="left"><span style="font-size:0.7em">
+Tag: edk2-stable201903 Features:<br>
+&nbsp;&nbsp;<a href="https://github.com/tianocore/edk2/releases">	edk2 releases Stable tag</a>
+More Information on UDK releases:<br>
+&nbsp;&nbsp; <a href="https://github.com/tianocore/tianocore.github.io/wiki/UDK2018">	TianoCore Wiki</a>
+</span></p>
+@snapend
+
+Note:
+
+Clip art CC - https://carolahand.files.wordpress.com/2015/06/community-clipart-dt6xbagt9.png 
+
+Stable Tag releases are validated snapshots of EDK II adding updates and new key features  and bug fixes
+
+
+There is a development phase, 
+Soft Feature Freeze
+The soft feature freeze is the beginning of the stabilization phase of edk2's development process. By the date of the soft feature freeze, developers must have sent their patches to the mailing list andreceived positive maintainer reviews (Reviewed-by or Acked-by tags). This means that features, and in particular non-trivial ones, must have been accepted by maintainers before the soft freeze date.
+Between the soft feature freeze and the hard feature freeze, previously reviewed and unit-tested features may be applied (or merged) to the master branch, for integration testing. Feature addition or enablement patches posted or reviewed after the soft feature freeze will be delayed until after the upcoming stable tag.
+
 
 ---  
 @title[Summary]
@@ -805,6 +847,12 @@ Wrapper is responsible for communicating with Braswell FSP APIs in SEC, PEI, and
 BDS phase
 https://github.com/mangguo321/Braswell/raw/master/Documents/Open_Braswell_Platform_Designing_Porting_Guide.pdf 
 
+---
+@title[UEFI & EDK II Timeline]    
+<p align="center"<span style="color:white; font-size:0.7em"> UEFI Specification & EDK II Reference Implementation Timeline  </span></p>
+<p align="center"<span style="color:white; font-size:0.4em"> <a href="http://www.uefi.org/">UEFI Specification</a> -top &nbsp;&nbsp;&nbsp;&nbsp; & &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.tiancore.org/">EDK II Open Source</a> -bottom </span></p>
+
+![Timeline](/assets/images/slides/bg30.jpg) 
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Logo Slide]
 <BR><BR><BR>
