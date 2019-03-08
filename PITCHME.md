@@ -769,8 +769,6 @@ Note:
 <p style="line-height:70%" align="left"><span style="font-size:0.7em">
 Tag: edk2-stable201903 Features:<br>
 &nbsp;&nbsp;<a href="https://github.com/tianocore/edk2/releases">	edk2 releases Stable tag</a><br>
-More Information on UDK releases:<br>
-&nbsp;&nbsp; <a href="https://github.com/tianocore/tianocore.github.io/wiki/UDK2018">	TianoCore Wiki</a>
 <br><br>
 </span></p>
 @snapend
