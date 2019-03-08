@@ -757,11 +757,12 @@ Note:
 
 @snap[north-east span-30 ]
 <br>
+<br>
 ![Logo](/assets/images/TianocoreLogo.png )
 @snapend
 
-@snap[north-east span-30 ]
-<br><br><br>
+@snap[north-east span-35 ]
+<br><br><br><br>
 ![Community](/assets/images/Community.png )
 @snapend
 
