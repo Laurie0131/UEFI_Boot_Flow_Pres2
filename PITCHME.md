@@ -77,7 +77,7 @@ Note:
 <br>
 <p style="line-height:20%" ><br><br>&nbsp;</p>
 <p style="line-height:20%"  align="left">
-&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
+&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
 @fa[haykal gp-bullet-magenta]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
@@ -111,7 +111,7 @@ Note:
 
 
 @snap[south-west span-45 fragment]
-<p align="right">@fa[haykal gp-bullet-magenta]</p>
+<p align="right">@fa[haykal fa-2x gp-bullet-magenta]</p>
 <p style="line-height:20%" ><br>&nbsp;</p>
 @snapend
 
