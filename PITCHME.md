@@ -92,9 +92,8 @@ Note:
 @snapend
 
 
-@snap[south span-10 fragment]
-@fa[exclamation-circle gp-bullet-red]
-<br>
+@snap[south span-20 fragment]
+@fa[haykal gp-bullet-red]
 <p style="line-height:50%" ><br>&nbsp;</p>
 @snapend
 
