@@ -92,9 +92,8 @@ Note:
 @snapend
 
 
-@snap[south span-20 fragment]
-@fa[haykal gp-bullet-red]
-<p style="line-height:50%" ><br>&nbsp;</p>
+@snap[south-west span-45 fragment]
+<p align="right">@fa[haykal gp-bullet-red]</p>
 @snapend
 
 @snap[south-east span-50 fragment]
