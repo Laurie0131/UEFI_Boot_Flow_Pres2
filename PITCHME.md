@@ -63,7 +63,7 @@ Note:
 ---?image=/assets/images/slides/Slide4_2.JPG
 @title[UEFI Boot Flow]
 <p align="right"><span class="gold" >@size[01.1em](<b>Firmware is Everywhere</b>) </span></p>
-@snap[north-east span-50 fragment]
+@snap[north-east span-50 ]
 <br>
 <p style="line-height:50%" >&nbsp;</p>
 @box[bg-navy text-white ](<p style="line-height:70%" ><span style="font-size:0.9em; font-weight: bold;" ><br><br><br><br><br><br><br><br><br><br><br>&nbsp;</span></p>)
@@ -81,10 +81,10 @@ Note:
 @fa[haykal gp-bullet-magenta]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
-<br>@fa[haykal gp-bullet-magenta]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
+<br>&nbsp;@fa[haykal gp-bullet-magenta]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br><br>
-@fa[haykal gp-bullet-magenta]<br>
+&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
 </p>
 @snapend
 
@@ -111,7 +111,7 @@ Note:
 
 
 @snap[south-west span-45 fragment]
-<p align="right">@fa[haykal fa-2x gp-bullet-magenta]</p>
+<p align="right">@fa[haykal gp-bullet-magenta]</p>
 <p style="line-height:20%" ><br>&nbsp;</p>
 @snapend
 
@@ -144,6 +144,53 @@ Note:
   TPM    Trusted Platform Module
 
 Image source: http://www.tweaktown.com/reviews/7497/tyan-s7076-intel-c612-server-motherboard-review/index3.html
+
++++?image=/assets/images/slides/Slide4_2.JPG
+@title[UEFI Boot Flow]
+<p align="right"><span class="gold" >@size[01.1em](<b>Firmware is Everywhere</b>) </span></p>
+
+
+
+@snap[south-west span-45 ]
+<p align="right">@fa[haykal fa-2x gp-bullet-magenta]</p>
+<p style="line-height:20%" ><br>&nbsp;</p>
+@snapend
+
+@snap[south-east span-50 ]
+@box[bg-royal text-white rounded my-box-pad2  ](<p style="line-height:70%" ><span style="font-size:0.8em; font-weight: bold;" ><br>Main system firmware &lpar;BIOS, UEFI firmware, coreboot&rpar;<br><br>&nbsp;</span></p>)
+<br>
+<br>
+<br>
+<br>
+<br>
+@snapend
+
+Note:
+### BLOCK Diagram of a Platform
+- We see that Firmware is everywher
+- GBe NIC, WiFi, Bluetooth, WiGig
+- Baseband (3G, LTE) Modems
+- Sensor Hubs
+- NFC, GPS Controllers
+- HDD/SSD
+- Keyboard and Embedded Controllers
+- Battery Gauge
+- Baseboard Management Controllers (BMC)
+- Graphics/Video
+- USB Thumb Drives, keyboards/mice
+- Chargers, adapters
+- TPM, security coprocessors
+- Routers, network appliances
+- Main system firmware (BIOS, UEFI firmware, coreboot)
+
+  GBe - Gigabit Network Interface controller
+  NFC   Near Field Communication
+  GPS	Global Positioning System
+  HDD/SSD Hard Drive - Solid State Drive
+  TPM    Trusted Platform Module
+
+Image source: http://www.tweaktown.com/reviews/7497/tyan-s7076-intel-c612-server-motherboard-review/index3.html
+
 
 
 
