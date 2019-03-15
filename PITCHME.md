@@ -94,7 +94,7 @@ Note:
 
 @snap[south-west span-45 fragment]
 <p align="right">@fa[haykal gp-bullet-magenta]</p>
-<p style="line-height:50%" ><br>&nbsp;</p>
+<p style="line-height:20%" ><br>&nbsp;</p>
 @snapend
 
 @snap[south-east span-50 fragment]
