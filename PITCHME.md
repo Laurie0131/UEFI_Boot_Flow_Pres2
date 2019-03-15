@@ -98,7 +98,7 @@ Note:
 <br>
 <p style="line-height:20%" ><br><br>&nbsp;</p>
 <p style="line-height:20%"  align="left">
-&nbsp;&nbsp;&nbsp;@fa[bomb gp-bullet-magenta]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
+&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
 @fa[haykal gp-bullet-magenta]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[haykal gp-bullet-magenta]<br>
