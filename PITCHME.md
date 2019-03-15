@@ -148,12 +148,13 @@ Note:
 Image source: http://www.tweaktown.com/reviews/7497/tyan-s7076-intel-c612-server-motherboard-review/index3.html
 
 +++?image=/assets/images/slides/Slide4_2.JPG
-@title[UEFI Boot Flow]
+<!-- .slide: data-background-transition="none" -->
+<!-- .slide: data-transition="none" -->@title[UEFI Boot Flow]
 <p align="right"><span class="gold" >@size[01.1em](<b>Firmware is Everywhere</b>) </span></p>
 
 
 
-@snap[south-west span-45 ]
+@snap[south-west span-50 ]
 <p align="right">@fa[haykal fa-2x gp-bullet-magenta]</p>
 @snapend
 
