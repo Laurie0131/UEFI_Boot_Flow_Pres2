@@ -62,11 +62,11 @@ Note:
 
 ---?image=/assets/images/slides/Slide4_2.JPG
 @title[UEFI Boot Flow]
-<p align="right"><span class="gold" >@size[01.1em](Firmware is Everywhere) </span></p>
+<p align="right"><span class="gold" >@size[01.1em](<b>Firmware is Everywhere</b>) </span></p>
 @snap[north-east span-50 fragment]
 <br>
 <p style="line-height:50%" >&nbsp;</p>
-@box[bg-navy text-white ](<p style="line-height:70%" ><span style="font-size:0.9em; font-weight: bold;" ><br><br><br><br><br><br><br><br><br><br>&nbsp;</span></p>)
+@box[bg-navy text-white ](<p style="line-height:70%" ><span style="font-size:0.9em; font-weight: bold;" ><br><br><br><br><br><br><br><br><br><br><br>&nbsp;</span></p>)
 <br>
 @snapend
 
@@ -91,8 +91,15 @@ Note:
 <br>
 @snapend
 
+
+@snap[south span-10 fragment]
+@fa[exclamation-circle gp-bullet-red]
+<br>
+<p style="line-height:50%" ><br>&nbsp;</p>
+@snapend
+
 @snap[south-east span-50 fragment]
-@box[bg-royal text-white rounded my-box-pad2  ](<p style="line-height:70%" ><span style="font-size:0.9em; font-weight: bold;" >Main system firmware &lpar;BIOS, UEFI firmware, coreboot&rpar;<br>&nbsp;</span></p>)
+@box[bg-royal text-white rounded my-box-pad2  ](<p style="line-height:70%" ><span style="font-size:0.8em; font-weight: bold;" >Main system firmware &lpar;BIOS, UEFI firmware, coreboot&rpar;<br>&nbsp;</span></p>)
 @snapend
 
 Note:
