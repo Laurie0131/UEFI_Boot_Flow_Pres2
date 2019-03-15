@@ -65,14 +65,14 @@ Note:
 <p align="right"><span class="gold" >@size[01.1em](Firmware is Everywhere) </span></p>
 @snap[north-east span-50 fragment]
 <br>
-<p style="line-height:50%" ><br><br>&nbsp;</p>
-@box[bg-navy text-white ](<p style="line-height:70%" ><span style="font-size:0.9em; font-weight: bold;" ><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp;</span></p>)
+<p style="line-height:50%" >&nbsp;</p>
+@box[bg-navy text-white ](<p style="line-height:70%" ><span style="font-size:0.9em; font-weight: bold;" ><br><br><br><br><br><br><br><br><br><br>&nbsp;</span></p>)
 <br>
 @snapend
 
 @snap[north-east span-50 fragment]
 <br>
-<p style="line-height:50%" ><br><br>&nbsp;</p>
+<p style="line-height:50%" ><br>&nbsp;</p>
 <ul style="list-style-type:disc; line-height:0.7;">
  <li><span style="font-size:0.65em">GBe NIC, WiFi, Bluetooth, WiGig </span></li>
  <li><span style="font-size:0.65em">Baseband (3G, LTE) Modems </span></li>
@@ -89,6 +89,10 @@ Note:
  <li><span style="font-size:0.65em">Routers, network appliances </span></li>
 </ul>
 <br>
+@snapend
+
+@snap[south-east span-50 fragment]
+@box[bg-royal text-white rounded my-box-pad2  ](<p style="line-height:70%" ><span style="font-size:0.9em; font-weight: bold;" >Main system firmware &lpar;BIOS, UEFI firmware, coreboot&rpar;<br>&nbsp;</span></p>)
 @snapend
 
 Note:
