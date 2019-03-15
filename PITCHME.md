@@ -60,7 +60,7 @@ Note:
 <span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where is the UEFI Firmware on a platform</span>
 
 
----?image=/assets/images/slides/Slide4_1.JPG
+---?image=/assets/images/slides/Slide4_2.JPG
 @title[UEFI Boot Flow]
 <p align="right"><span class="gold" >@size[01.1em](Firmware is Everywhere) </span></p>
 @snap[north-east span-50 fragment]
