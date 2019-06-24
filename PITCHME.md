@@ -436,7 +436,7 @@ Let’s take a quick look at the end product of Framework—the tables that Fram
 @title[UEFI Boot Flow EFI System Table]
 #### <p align="center"><span class="gold">UEFI System Table </span>
 @snap[south-west span-35 ]
-<p style="line-height:60%"><span style="font-size:0.9em"> Demo `Dmpstore`  - <a href="https://youtu.be/SQuepEWWCZk">YouTube</a> </span></p>
+<p style="line-height:60%"><span style="font-size:0.5em"> Demo `Dmpstore`  - <a href="https://youtu.be/SQuepEWWCZk">YouTube</a> </span></p>
 @snapend
 
 Note:
@@ -620,7 +620,7 @@ HII<Br>
 #### <p align="center"><span class="gold">UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>HII</b> </span></p>
 
 @snap[south-west span-45 ]
-<p style="line-height:60%"><span style="font-size:0.9em"> DEMO BlankDrv  - <a href="https://youtu.be/qfFDsodO3T8">YouTube</a> </span></p>
+<p style="line-height:60%"><span style="font-size:0.5em"> DEMO BlankDrv  - <a href="https://youtu.be/qfFDsodO3T8">YouTube</a> </span></p>
 @snapend
 
 Note:
