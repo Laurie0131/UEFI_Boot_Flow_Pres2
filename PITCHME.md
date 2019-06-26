@@ -1003,8 +1003,8 @@ Between the soft feature freeze and the hard feature freeze, previously reviewe
 
 ---?image=/assets/images/slides/Slide50_1.JPG
 @title[FSP detail 1]
-<p align="center"><span style="font-size:0.8em"><b>Intel® FSP V2.0 Boot Flow</b></span> </p>
-<p style="line-height:50%"><span style="font-size:0.5em"> Whitpaper:Using Intel® FSP with EDK II: <a href="https://firmware.intel.com/sites/default/files/A_Tour_Beyond_BIOS_Using_the_Intel_Firmware_Support_Package_with_the_EFI_Developer_Kit_II_(FSP2.0).pdf "> PDF</a>
+<p align="right"><span style="font-size:0.8em"><b>Intel® FSP V2.0 Boot Flow</b></span> </p>
+<p align="right" style="line-height:50%"><span style="font-size:0.5em"> Whitpaper:Using Intel® FSP with EDK II: <a href="https://firmware.intel.com/sites/default/files/A_Tour_Beyond_BIOS_Using_the_Intel_Firmware_Support_Package_with_the_EFI_Developer_Kit_II_(FSP2.0).pdf "> PDF</a>
 <br></span> <span style="font-size:0.3em"> Intel® Firmware Support Package (Intel® FSP)   </span> </p>
 	
 Note:
