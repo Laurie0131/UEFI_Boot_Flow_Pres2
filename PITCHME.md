@@ -766,14 +766,15 @@ Intel®  FSP "Produced" to <br> "Consuming" Intel® Architecture Firmware </span
 Note:
 Applying “Produced” Intel® Firmware Support Package (FSP) to “Consuming” IA firmware <Br>  
 
----?image=/assets/images/slides/Slide5.JPG
+---?image=/assets/images/slides/Slide36_1.JPG
 <!-- .slide: data-transition="none" -->
 
 @title[Intel FSP from UEFI Boot Flow]
 #### <p align="center"><span class="gold">UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>FSP</b> </span></p>
 
-@snap[south-west span-40 fragment]
+@snap[south-west span-42 fragment]
 ![fsp-bin](/assets/images/FSP_FD.png)
+<br>
 <br>
 @snapend
 
@@ -955,6 +956,7 @@ Include Helper .chm files for different Packages: <a href="https://github.com/ti
 More information on Stable Tag Planning: <a href="https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Release-Planning"> TianoCore Wiki</a>
 <br>
 </span></p>
+<br>
 @snapend
 
 @snap[south-east span-45 ]
@@ -982,10 +984,10 @@ Between the soft feature freeze and the hard feature freeze, previously reviewe
 @title[Report a bug on Bugzilla]
 <p align="right"><span class="gold" >@size[1.1em](<b>Report a bug on Bugzilla&nbsp; &nbsp; &nbsp; &nbsp;  </b>)</span>
 <span style="font-size:0.75em;" >  </span></p>
-<ul style="list-style-type:none; line-height:0.75;">
-  <li><span style="font-size:0.7em">Create a user account  https://bugzilla.tianocore.org/  </span></li>
-  <li><span style="font-size:0.7em">Search if bug "already" reported  </span></li>
-  <li><span style="font-size:0.7em">File <a href="https://bugzilla.tianocore.org/enter_bug.cgi">New Report</a> – Pick a product – fill out form for the bug  </span></li>
+<ul style="list-style-type:none; line-height:0.8;">
+  <li><span style="font-size:0.75em">Create a user account  https://bugzilla.tianocore.org/  </span></li>
+  <li><span style="font-size:0.75em">Search if bug "already" reported  </span></li>
+  <li><span style="font-size:0.75em">File <a href="https://bugzilla.tianocore.org/enter_bug.cgi">New Report</a> – Pick a product – fill out form for the bug  </span></li>
 </ul>
 
 
