@@ -785,20 +785,6 @@ Applying “Produced” Intel® Firmware Support Package (FSP) to “Consuming�
 <br>
 @snapend
 
----?image=/assets/images/slides/Slide36_1.JPG
-<!-- .slide: data-transition="none" -->
-
-@title[Intel FSP from UEFI Boot Flow]
-#### <p align="center"><span class="gold">UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>FSP</b> </span></p>
-
-@snap[south-west span-42 fragment]
-![fsp-bin](/assets/images/FSP_FD.png)
-<br>
-<br>
-<br>
-<br>
-@snapend
-
 Note:
 Platform Initialization (PI) & UEFI w/ EDK <Br>
 - Intel FSP boot flow   
