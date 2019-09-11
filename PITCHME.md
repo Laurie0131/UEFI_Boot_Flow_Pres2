@@ -781,6 +781,8 @@ Applying “Produced” Intel® Firmware Support Package (FSP) to “Consuming�
 ![fsp-bin](/assets/images/FSP_FD.png)
 <br>
 <br>
+<br>
+<br>
 @snapend
 
 ---?image=/assets/images/slides/Slide36_1.JPG
@@ -791,6 +793,8 @@ Applying “Produced” Intel® Firmware Support Package (FSP) to “Consuming�
 
 @snap[south-west span-42 fragment]
 ![fsp-bin](/assets/images/FSP_FD.png)
+<br>
+<br>
 <br>
 <br>
 @snapend
