@@ -772,8 +772,9 @@ Applying “Produced” Intel® Firmware Support Package (FSP) to “Consuming�
 @title[Intel FSP from UEFI Boot Flow]
 #### <p align="center"><span class="gold">UEFI - PI & EDK II Boot Flow </span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;<b>FSP</b> </span></p>
 
-@snap[south-west span-20 fragment]
+@snap[south-west span-40 fragment]
 ![fsp-bin](/assets/images/FSP_FD.png)
+<br>
 @snapend
 
 Note:
@@ -805,7 +806,7 @@ Then the PeiCore will continue dispatching the final PEIMs and jump into the Dxe
 <ul style="line-height:0.8;">
   <li><span style="font-size:0.8em" > Examples of binary instances on   <a href="http://www.intel.com/fsp">http://www.intel.com/fsp </a> with integration guides</span></li>
   <ul style="list-style-type:none" style="line-height:0.7;" >
-    <li><span style="font-size:0.67em" >&bull; This includes hardware initialization code that is EDK II based PEI Modules<br>&nbsp;&nbsp;&nbsp;&nbsp; (PEIM’s)</span></li>
+    <li><span style="font-size:0.67em" >&bull; This includes hardware initialization code that is EDK II based PEI <br>&nbsp;&nbsp;&nbsp;&nbsp;Modules (PEIM’s)</span></li>
   </ul>
   <li><span style="font-size:0.8em" >Modules are encapsulated as a UEFI PI firmware volume w/ extra header</span></li>
   <li><span style="font-size:0.8em" >Configure w/Vital Product Data (VPD)-style Platform Configuration Data (PCD) externalized from the modules</span></li>
@@ -824,12 +825,12 @@ Note:
   <li><span style="font-size:0.8em" >CPU and chipset-specific code for PEIM’s inside of the Intel FSP can be open or closed, added to… </span></li><br>
   <li><span style="font-size:0.8em" >PEI core and infrastructure code at <a href="https://github.com/tianocore/edk2"> tianocore.org/edk2 </a></span></li>
   <ul style="list-style-type:disc" style="line-height:0.8;" >
-     <li><span style="font-size:0.7em" ><a href="https://github.com/tianocore/edk2/tree/master/MdePkg"> `/MdePkg` </a></span></li>
-     <li><span style="font-size:0.7em" ><a href="https://github.com/tianocore/edk2/tree/master/MdeModulePkg"> `/MdeModulePkg` </a></span></li><br>
+     <li><span style="font-size:0.7em" ><a href="https://github.com/tianocore/edk2/tree/master/MdePkg"> /MdePkg </a></span></li>
+     <li><span style="font-size:0.7em" ><a href="https://github.com/tianocore/edk2/tree/master/MdeModulePkg"> /MdeModulePkg </a></span></li><br>
   </ul>
   <li><span style="font-size:0.8em" >And the code to create the Intel FSP interfaces can be found at</span></li> 
    <ul style="list-style-type:disc" style="line-height:0.8;" >
-     <li><span style="font-size:0.7em" ><a href="https://github.com/tianocore/edk2/tree/master/IntelFsp2Pkg"> `/IntelFsp2Pkg` </a> and Wrapper at: <a href="https://github.com/tianocore/edk2/tree/master/IntelFsp2WrapperPkg">/IntelFsp2WrapperPkg </a></span></li>
+     <li><span style="font-size:0.7em" ><a href="https://github.com/tianocore/edk2/tree/master/IntelFsp2Pkg"> /IntelFsp2Pkg </a> and Wrapper at: <a href="https://github.com/tianocore/edk2/tree/master/IntelFsp2WrapperPkg">/IntelFsp2WrapperPkg </a></span></li>
    </li>
 <br>
 <br>
@@ -882,16 +883,15 @@ Note:
 
 ---  
 @title[UDK2018 Key Features]   
-<br> 
-<p align="center"><span style="color:#e49436; font-size: 1.0em"> UDK2018: Key Features - Q2 2018</span> </p>
+<p align="right"><span style="color:#e49436; font-size: 1.0em"> UDK2018: Key Features - Q2 2018</span> </p>
 <p align="Left"><span style="color:#e49436; font-size:0.8em"> UEFI Development Kit (UDK) releases are stable, validated snapshots of EDK II  </span> </p>
 <div class="left">
      <ul style="list-style-type:disc; line-height:0.7;">
         <li><span style="font-size:0.7em">Industry Standards & Public Specifications</span> </li>
-        <ul style="list-style-type:disc; line-height:0.65;">
-          <li><span style="font-size:0.67em">UEFI 2.7</span></li>
-          <li><span style="font-size:0.67em">UEFI PI 1.6</span></li>
-          <li><span style="font-size:0.67em">ACPI 6.2</span></li>
+        <ul style="list-style-type:none; line-height:0.65;">
+          <li><span style="font-size:0.67em">&bull; UEFI 2.7</span></li>
+          <li><span style="font-size:0.67em">&bull; UEFI PI 1.6</span></li>
+          <li><span style="font-size:0.67em">&bull; ACPI 6.2</span></li>
         </ul>
         <li><span style="font-size:0.7em">Centralized Config Management </span></li>
         <li><span style="font-size:0.7em">IOMMU-based DMA Protection</span></li>
@@ -909,10 +909,17 @@ Note:
     </ul>
 </div>
 
+@snap[south-west span-100 ]
+<p style="line-height:67%" align="left"><span style="font-size:0.67em">
+Include Helper .chm files for different Packages: <a href="https://github.com/tianocore/tianocore.github.io/wiki/UDK2018#documentation"> UDK2018 documentation</a>
+<br>
+</span></p>
+@snapend
+
+
 ---  
 @title[EDK II Community Development]   
 <p align="center"><span class="gold"   >@size[1.1em](<b>EDK II - Open Source &nbsp;&nbsp;&nbsp; </b>)</span></p>
-<br>
 
 <span style="font-size:01.0em">@color[#e49436](Community Development)</span>
 <div class="left1">
@@ -946,6 +953,7 @@ Note:
 @snap[south-west span-45 ]
 <p style="line-height:70%" align="left"><span style="font-size:0.7em">
 More information on Stable Tag Planning: <a href="https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Release-Planning"> TianoCore Wiki</a>
+<br>
 </span></p>
 @snapend
 
@@ -974,11 +982,11 @@ Between the soft feature freeze and the hard feature freeze, previously reviewe
 @title[Report a bug on Bugzilla]
 <p align="right"><span class="gold" >@size[1.1em](<b>Report a bug on Bugzilla&nbsp; &nbsp; &nbsp; &nbsp;  </b>)</span>
 <span style="font-size:0.75em;" >  </span></p>
-<ul style="list-style-type:none; line-height:0.7;">
+<ul style="list-style-type:none; line-height:0.75;">
   <li><span style="font-size:0.7em">Create a user account  https://bugzilla.tianocore.org/  </span></li>
   <li><span style="font-size:0.7em">Search if bug "already" reported  </span></li>
   <li><span style="font-size:0.7em">File <a href="https://bugzilla.tianocore.org/enter_bug.cgi">New Report</a> – Pick a product – fill out form for the bug  </span></li>
-/ul>
+</ul>
 
 
 ---  
@@ -1114,7 +1122,7 @@ https://github.com/mangguo321/Braswell/raw/master/Documents/Open_Braswell_Platfo
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Logo Slide]
 <BR><BR><BR>
-![Logo Slide](/assets/images/TianocoreLogo.png =10x)
+![Logo Slide](/assets/images/TianocoreLogo.png =10x)`
 
 ---
 @title[Acknowledgements]
