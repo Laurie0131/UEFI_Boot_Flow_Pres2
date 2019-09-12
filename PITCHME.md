@@ -821,7 +821,7 @@ Then the PeiCore will continue dispatching the final PEIMs and jump into the Dxe
   <li><span style="font-size:0.8em" >Resultant output state reported via UEFI Platform Initialization (PI) Hand Off Block (HOB)</span></li>
 </ul>
 <p style="line-height:50%"><span style="font-size:0.5em" > <a href="http://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/fsp-architecture-spec-v2.pdf"> Intel® Firmware Support Package (Intel® FSP) External Architecture Specification (EAS) v2.0 PDF </a><BR>
- Resource: <a href="https://firmware.intel.com/blog/open-source-platforms-edkii-using-intel-fsp">https://firmware.intel.com/blog/open-source-platforms-edkii-using-intel-fsp  </a> </span> </p>
+</span> </p>
 
 Note:
 
@@ -1072,7 +1072,7 @@ Between the soft feature freeze and the hard feature freeze, previously reviewe
 
 ---?image=/assets/images/slides/Slide52.JPG
 @title[FSP detail 1]
-<p align="right" style="line-height:50%"><span style="font-size:0.8em"><b>Intel® FSP V2.0 Boot Flow</b><br> </span><span style="font-size:0.5em"> Using Intel® FSP w/ EDK II: <a href="https://firmware.intel.com/sites/default/files/A_Tour_Beyond_BIOS_Using_the_Intel_Firmware_Support_Package_with_the_EFI_Developer_Kit_II_(FSP2.0).pdf "> PDF</a>
+<p align="right" style="line-height:50%"><span style="font-size:0.8em"><b>Intel® FSP V2.0 Boot Flow</b><br> </span><span style="font-size:0.5em"> Using Intel® FSP w/ EDK II: <a href="https://software.intel.com/sites/default/files/managed/d9/57/a-tour-beyond-bios-using-the-intel-firmware-support-package-with-the-efi-developer-kit-ii-fsp2.0.pdf"> PDF</a>
 <br></span> </p>
 	
 Note:
@@ -1081,7 +1081,10 @@ Different Intel hardware devices may have different Intel FSP binary instances, 
 Despite the variability of the FSP binaries, the FSP API caller (aka FSP consumer) could be a generic module to invoke the 5 APIs defined in FSP EAS (External Architecture Specification) to finish silicon initialization. [FSP EAS] 
 The flow below describes the FSP, with the FSP binary from the “FSP Producer” in green and the platform code that integrates the binary, or the “FSP Consumer”, in blue. 
 
-Source https://firmware.intel.com/sites/default/files/A_Tour_Beyond_BIOS_Using_the_Intel_Firmware_Support_Package_with_the_EFI_Developer_Kit_II_%28FSP2.0%29.pdf 
+Source https://software.intel.com/sites/default/files/managed/d9/57/a-tour-beyond-bios-using-the-intel-firmware-support-package-with-the-efi-developer-kit-ii-fsp2.0.pdf
+
+ moved from:
+ https://firmware.intel.com/sites/default/files/A_Tour_Beyond_BIOS_Using_the_Intel_Firmware_Support_Package_with_the_EFI_Developer_Kit_II_%28FSP2.0%29.pdf 
 
 ---
 @title[FSP detail 2]
