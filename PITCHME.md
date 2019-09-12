@@ -1134,7 +1134,7 @@ https://github.com/mangguo321/Braswell/raw/master/Documents/Open_Braswell_Platfo
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Logo Slide]
 <BR><BR><BR>
-![Logo Slide](/assets/images/TianocoreLogo.png =10x)`
+![Logo Slide](/assets/images/TianocoreLogo.png =10x)
 
 ---
 @title[Acknowledgements]
