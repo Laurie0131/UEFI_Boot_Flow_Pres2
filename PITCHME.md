@@ -748,7 +748,7 @@ System Management Mode (SMM) describes a Processor operating mode which services
 
 @snapend
 
-@snap[north-west span-60 fragment ]
+@snap[north-west span-65 fragment ]
 <br>
 <br>
 <span style="font-size:01.25em" ><b><i>@color[yellow](Because . . .)</i></b></span><br>
