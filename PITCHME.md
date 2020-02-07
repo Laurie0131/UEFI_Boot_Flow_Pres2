@@ -45,14 +45,13 @@ Note:
 
 ---  
 @title[Lesson Objective]
-<BR>
-### <p align="center"<span class="gold"   >Lesson Objective </span></p><br>
+### <p align="center"<span class="gold"   >Lesson Objective </span></p>
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
  @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Where is the System Firmware </span><br><br>
  @fa[certificate gp-bullet-cyan]<span style="font-size:0.9em">&nbsp;&nbsp;Review UEFI Platform Initialization Boot Flow Process</span><br><br>
- @fa[certificate gp-bullet-yellow]<span style="font-size:0.9em">&nbsp;&nbsp;What about Management Mode (Formerly Known as SMM)</span> <br><br>
+ @fa[certificate gp-bullet-yellow]<span style="font-size:0.9em">&nbsp;&nbsp;What about Management Mode (Aka SMM)</span> <br><br>
  @fa[certificate gp-bullet-magenta]<span style="font-size:0.9em">&nbsp;&nbsp;What is Intel® FSP ? </span> <br><br>
  @fa[certificate gp-bullet-ltgreen]<span style="font-size:0.9em">&nbsp;&nbsp;The UEFI.org Forum & Tianocore.org </span> 
 
@@ -696,8 +695,8 @@ Run Time
 ---?image=assets/images/binary-strings-black2.jpg
 @title[What is SMM Section]
 <br><br><br><br><br>
-## <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What is Mamangement Mode (MM)</span>
-<span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The UEFI PI Introduces the Management Mode (formerly known as SMM) </span>
+### <span class="gold"  >What is Mamangement Mode (MM)</span>
+<span style="font-size:0.85em" >The UEFI PI Introduces the Management Mode (formerly known as SMM) </span>
 
 Note:
 Section
@@ -739,8 +738,12 @@ System Management Mode (SMM) describes a Processor operating mode which services
 @title[Why MMI Vulnerabilities )]
 <p style="line-height:95%" align="right"><span class="gold" ><b>Why are Software MMI Vulnerabilities so</b><br><span style="font-size:01.25em" >@color[red](<b>Dangerous?</b>)</span></p>
 
-@snap[south-east span-12 fragment ]
+@snap[south-east span-20 fragment ]
 ![bomb_SMM](/assets/images/Bomb_SMM.png)
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 @snapend
