@@ -1026,7 +1026,7 @@ Talking point – anyone would could be producer.  IBV could.  Just worry about 
 #### <p align="center"><span class="gold">Latest UEFI Specifications </span> </p>
 <p align="right"><span style="font-size:0.6em" ><a href="http://www.uefi.org"> http://uefi.org</a></span></p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <p align="right"><span style="font-size:0.6em" ><a href="http://www.uefi.org/specsandtesttools"> http:///uefi.org/specsandtesttools </a>
 </span></p>
 <p align="left"><span style="font-size:0.6em" > Resources Presented at Events from <a href="http://www.uefi.org/learning_center/presentationsandvideos/">
