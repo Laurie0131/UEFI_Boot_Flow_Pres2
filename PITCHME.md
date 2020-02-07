@@ -1019,17 +1019,17 @@ Talking point – anyone would could be producer.  IBV could.  Just worry about 
 
 
 
----?image=/assets/images/slides/Slide43.JPG
+---?image=/assets/images/slides/Slide44.JPG
 <!-- .slide: data-transition="none" -->
 
 @title[UEFI Spec pic]    
 #### <p align="center"><span class="gold">Latest UEFI Specifications </span> </p>
 <p align="right"><span style="font-size:0.6em" ><a href="http://www.uefi.org"> http://uefi.org</a></span></p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <p align="right"><span style="font-size:0.6em" ><a href="http://www.uefi.org/specsandtesttools"> http:///uefi.org/specsandtesttools </a>
 </span></p>
-<p align="left"><span style="font-size:0.8em" > Resources Presented at Events from <a href="http://www.uefi.org/learning_center/presentationsandvideos/">
+<p align="left"><span style="font-size:0.6em" > Resources Presented at Events from <a href="http://www.uefi.org/learning_center/presentationsandvideos/">
 UEFI Forum Education Link </a></span></p>
 
 Note:
@@ -1149,12 +1149,12 @@ Between the soft feature freeze and the hard feature freeze, previously reviewe
 
 ---  
 @title[Summary]
-##### <p align="center"<span class="gold"   >Summary </span></p><br>
+##### <p align="center"<span class="gold"   >Summary </span></p>
 
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;The System Firmware is a binary image that starts execution as the reset vector & is typically a SPI device</span><br><br>
- @fa[certificate gp-bullet-cyan]<span style="font-size:0.9em">&nbsp;&nbsp;UEFI & PI Boot Flow Process, SEC, PEI, DXE, BDS, TSL, OS</span><br><br>
- @fa[certificate gp-bullet-yellow]<span style="font-size:0.9em">&nbsp;&nbsp;System Management Mode is in Ring 0 in the System FW </span> <br><br>
- @fa[certificate gp-bullet-magenta]<span style="font-size:0.9em">&nbsp;&nbsp;Intel® FSP will initialize the processor, chipset and memory </span> <br><br>
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;The System Firmware is a binary image that starts<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execution as the reset vector & is typically a SPI device</span><br>
+ @fa[certificate gp-bullet-cyan]<span style="font-size:0.9em">&nbsp;&nbsp;UEFI & PI Boot Flow Process, SEC, PEI, DXE, BDS, TSL, OS</span><br>
+ @fa[certificate gp-bullet-yellow]<span style="font-size:0.9em">&nbsp;&nbsp;System Management Mode is in Ring 0 in the System FW </span> <br>
+ @fa[certificate gp-bullet-magenta]<span style="font-size:0.9em">&nbsp;&nbsp;Intel® FSP will initialize the processor, chipset and<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; memory </span> <br>
  @fa[certificate gp-bullet-ltgreen]<span style="font-size:0.9em">&nbsp;&nbsp;The UEFI.org & Tianocore.org for Specs and Open source  </span> 
 
 ---?image=assets/images/gitpitch-audience.jpg
