@@ -1151,10 +1151,10 @@ Between the soft feature freeze and the hard feature freeze, previously reviewe
 @title[Summary]
 ##### <p align="center"<span class="gold"   >Summary </span></p>
 <br><br>
- @fa[certificate gp-bullet-green]<span style="font-size:0.85em">&nbsp;&nbsp;The System Firmware is a binary image that starts<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execution as the reset vector & is typically a SPI device</span><br>
+ @fa[certificate gp-bullet-green]<span style="font-size:0.85em">&nbsp;&nbsp;The System Firmware is a binary image that starts<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execution as the reset vector & is typically a SPI device</span><br>
  @fa[certificate gp-bullet-cyan]<span style="font-size:0.85em">&nbsp;&nbsp;UEFI & PI Boot Flow Process, SEC, PEI, DXE, BDS, TSL, OS</span><br>
  @fa[certificate gp-bullet-yellow]<span style="font-size:0.85em">&nbsp;&nbsp;System Management Mode is in Ring 0 in the System FW </span> <br>
- @fa[certificate gp-bullet-magenta]<span style="font-size:0.85em">&nbsp;&nbsp;Intel® FSP will initialize the processor, chipset, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;silicon and memory </span> <br>
+ @fa[certificate gp-bullet-magenta]<span style="font-size:0.85em">&nbsp;&nbsp;Intel® FSP will initialize the processor, chipset, silicon<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and memory </span> <br>
  @fa[certificate gp-bullet-ltgreen]<span style="font-size:0.85em">&nbsp;&nbsp;The UEFI.org & Tianocore.org for Specs and Open source  </span> 
 
 ---?image=assets/images/gitpitch-audience.jpg
