@@ -738,13 +738,13 @@ System Management Mode (SMM) describes a Processor operating mode which services
 @title[Why MMI Vulnerabilities )]
 <p style="line-height:95%" align="right"><span class="gold" ><b>Why are Software MMI Vulnerabilities so</b><br><span style="font-size:01.25em" >@color[red](<b>Dangerous?</b>)</span></p>
 
-@snap[south-east span-27 fragment ]
+@snap[south-east span-30 fragment ]
 ![bomb_SMM](/assets/images/Bomb_SMM.png)
 <br>
 <br>
 <br>
 <br>
-<br>
+
 
 @snapend
 
